@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/anime_item"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Anime"/>
+
+    <item android:id="@+id/manga_item"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Manga"/>
+
+    <item android:id="@+id/doujinshi_item"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Doujinshi"/>
+</menu>
